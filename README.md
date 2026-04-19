@@ -2,6 +2,10 @@
 
 An intelligent web application that provides personalized mutual fund recommendations using machine learning algorithms and AI-powered chat assistance.
 
+## 🚀 Live Demo
+
+👉 [Click here to use the app](https://your-app-name.streamlit.app)
+
 ## Features
 
 - **Personalized Recommendations**: Get tailored mutual fund suggestions based on your age, income, risk appetite, investment goals, and duration.

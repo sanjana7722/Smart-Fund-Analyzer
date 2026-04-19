@@ -4,7 +4,7 @@ An intelligent web application that provides personalized mutual fund recommenda
 
 ## 🚀 Live Demo
 
-👉 [Click here to use the app](https://your-app-name.streamlit.app)
+👉 [Click here to use the app]([https://your-app-name.streamlit.app](https://smart-fund-analyzer-ek3bgbm3qdr3mrtbv5minq.streamlit.app/))
 
 ## Features
 

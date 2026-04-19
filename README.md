@@ -1,4 +1,4 @@
-# AI Mutual Fund Advisor
+# Smart Fund Analyzer
 
 An intelligent web application that provides personalized mutual fund recommendations using machine learning algorithms and AI-powered chat assistance.
 
@@ -34,8 +34,8 @@ An intelligent web application that provides personalized mutual fund recommenda
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ai-mutual-fund-platform.git
-   cd ai-mutual-fund-platform
+   git clone https://github.com/sanjana7722/Smart-Fund-Analyzer.git
+   cd Smart-Fund-Analyzer
    ```
 
 2. **Create a virtual environment:**
@@ -128,7 +128,7 @@ The application requires an OpenAI API key for the chat functionality:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 

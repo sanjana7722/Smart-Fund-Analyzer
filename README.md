@@ -2,11 +2,9 @@
 
 An intelligent web application that provides personalized mutual fund recommendations using machine learning algorithms and AI-powered chat assistance.
 
-## 🚀 Live Demo
+## Live Demo
 
-## 🚀 Live Demo
-
-👉 [Click here to use the app](https://smart-fund-analyzer-ek3bgbm3qdr3mrtbv5minq.streamlit.app/)
+[Click here to use the app](https://smart-fund-analyzer-ek3bgbm3qdr3mrtbv5minq.streamlit.app/)
 
 ## Features
 

@@ -138,6 +138,10 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 This application is for educational and informational purposes only. It does not constitute financial advice. Always consult with a qualified financial advisor before making investment decisions. Past performance does not guarantee future results.
 
+## Authors
+@sanjana7722
+@aditigawas218
+
 ## Support
 
 For questions or issues:
